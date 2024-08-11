@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Задача 1", "Задача 1\Задача 1.csproj", "{5C8199A1-8C01-4BF2-AE2B-28529945862D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Задача 2", "Задача 2\Задача 2.csproj", "{B94952A8-DFF1-4405-A2B2-E5C3B58D15F7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Задача 3", "Задача 3\Задача 3.csproj", "{741B9C46-51B9-4A51-ADA2-9305D1DE2BF7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C8199A1-8C01-4BF2-AE2B-28529945862D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C8199A1-8C01-4BF2-AE2B-28529945862D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C8199A1-8C01-4BF2-AE2B-28529945862D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C8199A1-8C01-4BF2-AE2B-28529945862D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B94952A8-DFF1-4405-A2B2-E5C3B58D15F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B94952A8-DFF1-4405-A2B2-E5C3B58D15F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B94952A8-DFF1-4405-A2B2-E5C3B58D15F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B94952A8-DFF1-4405-A2B2-E5C3B58D15F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{741B9C46-51B9-4A51-ADA2-9305D1DE2BF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{741B9C46-51B9-4A51-ADA2-9305D1DE2BF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{741B9C46-51B9-4A51-ADA2-9305D1DE2BF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{741B9C46-51B9-4A51-ADA2-9305D1DE2BF7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F44979C9-C78E-4CE2-8ACD-774015242631}
+	EndGlobalSection
+EndGlobal
